@@ -8,7 +8,7 @@ Debian:
 Arch-Linux:
   https://wiki.archlinux.org/index.php/conky
 
-## Install cony-draw
+## Install conky-draw
   https://github.com/fisadev/conky-draw
   
 ## Setup Conky
