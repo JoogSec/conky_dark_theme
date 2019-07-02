@@ -1,5 +1,10 @@
-# Custom Conky Theme
-The theme use https://github.com/fisadev/conky-draw/
+# Custom Conky Dark-Theme
+
+
+## How does it looks like
+Inline-style: 
+![alt text](https://github.com/thaJoog/conky_theme/blob/master/conky_rc.png "THEME")
+
 
 ## Install
 Debian:
