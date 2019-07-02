@@ -24,4 +24,4 @@ Clone or download the files from here and copy everything into the ~/.conkyrc so
 - startConky.sh
 
 ## Start
-Manually you can start with `conky -c conkyrc` or you can use the start script, attention if you use the script there is a delay around 10 seconds which you need if you want to use it at the autostart routine.
+Manually you can start with `conky -c conkyrc` or you can use the start script, attention if you use the script there is a delay around 10 seconds which you need if you want to use it for the autostart routine.
