@@ -2,7 +2,6 @@
 
 
 ## How does it looks like
-Inline-style: 
 ![alt text](https://github.com/thaJoog/conky_theme/blob/master/conky_rc.png "THEME")
 
 
